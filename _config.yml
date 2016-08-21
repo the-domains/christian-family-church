@@ -16,6 +16,10 @@ layout_spectrum: 0.8701532981358469
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36eeb432-77bf-44b8-a43a-4c31d0071b4d.png
 name: Christian Family Church
+navigation:
+  - name: Our Church
+    url: www.thatfamilychurch.com
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/caa2914a-2c1c-42d4-be90-af34a67bc0cb.gif
 title: 'Loving God, People & Life'
