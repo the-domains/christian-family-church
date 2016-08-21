@@ -1,4 +1,3 @@
-layout_spectrum: 0.8701532981358469
 typography_spectrum: 0.9074725350365043
 color:
   brandStrength: 0.9361658121924847
@@ -6,9 +5,17 @@ color:
   saturation: 0.18233628617599607
   rhythmicContrast: 0.40593495941720903
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+opengraph:
+  appId: '314982231970563'
+layout_spectrum: 0.8701532981358469
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36eeb432-77bf-44b8-a43a-4c31d0071b4d.png
 name: Christian Family Church
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/caa2914a-2c1c-42d4-be90-af34a67bc0cb.gif
+title: 'Loving God, People & Life'
